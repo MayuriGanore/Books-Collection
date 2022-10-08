@@ -24,3 +24,10 @@ This repository contains free books on different programming languages, Concepts
     "bookLink"   : "https://www.avabodh.com/cin/cin.html"
 },
 ```
+
+{
+    "id" : "39",
+    "bookName" : "Let us JAVA",
+    "authorName" : "Yashvant Kanetkar",
+    "bookLink"   : "https://www.amazon.in/Let-Us-Java-3rd-Yashavant-Kanetkar/dp/9386551780"
+},
